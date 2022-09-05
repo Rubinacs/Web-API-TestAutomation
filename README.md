@@ -39,7 +39,7 @@ mvn clean install
 
 #### 
 <p align="center">
-    <img src="todo">
+    <img src="https://github.com/Rubinacs/Web-API-TestAutomation/blob/main/reportcapure.PNG">
 </p>
 
 
