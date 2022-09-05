@@ -1,0 +1,9 @@
+{
+  "description": "Example of a gist",
+  "public": false,
+  "files": {
+    "README.md": {
+      "content": "Hello World"
+    }
+  }
+}
