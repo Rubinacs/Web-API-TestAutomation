@@ -16,9 +16,21 @@ Automating functional testcases for UI and API. This project uses the page objec
 - JDK 
 - Maven configuration
 
-### How to run test
+### How to build and run this project manually?
 
-Extract the project ,change the directory and run below command
+- Clone the Web-API-TestAutomation repository using the below command
+
+```
+git clone https://github.com/Rubinacs/Web-API-TestAutomation.git
+```
+
+- Change path to root directory of Web-API-TestAutomation project
+
+```
+cd Web-API-TestAutomation
+```
+
+- Run the test
 
 ```
 mvn clean install
